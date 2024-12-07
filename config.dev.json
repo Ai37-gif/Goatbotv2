@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093172417993"
+    "100040200875426"
     
   ],
   "GOD": [
-    "100093172417993"
+    "100040200875426"
     
   ],
   "DEV": [
-    "100093172417993"
+    "100040200875426"
     
   ],
   "whiteListMode": {
@@ -33,11 +33,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ai",
-  "authorName": "Jonel",
-  "authorFB": "https://www.facebook.com/profile.php?id=100093172417993",
+  "nickNameBot": "Aurore",
+  "authorName": "Ciel",
+  "authorFB": "https://www.facebook.com/profile.php?id=100040200875426",
   "authorEmail": "",
-  "prefix": " ",
+  "prefix": "€",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
